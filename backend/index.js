@@ -3,7 +3,7 @@ const fs = require("fs");
 const cors = require("cors");
 const { v4: uuidv4 } = require("uuid");
 const Stripe = require("stripe");
-require("dotenv").config();
+//require("dotenv").config();
 
 const stripe = Stripe(process.env.STRIPE_SECRET_KEY);
 const app = express();
