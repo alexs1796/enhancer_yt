@@ -1,0 +1,32 @@
+[
+  {
+    "key": "PRO-A1B2-C3D4",
+    "email": "test1@example.com",
+    "created": "2026-03-25T00:00:00.000Z",
+    "valid": true
+  },
+  {
+    "key": "PRO-E5F6-G7H8",
+    "email": "test2@example.com",
+    "created": "2026-03-25T00:01:00.000Z",
+    "valid": true
+  },
+  {
+    "key": "PRO-I9J0-K1L2",
+    "email": "test3@example.com",
+    "created": "2026-03-25T00:02:00.000Z",
+    "valid": true
+  },
+  {
+    "key": "PRO-M3N4-O5P6",
+    "email": "test4@example.com",
+    "created": "2026-03-25T00:03:00.000Z",
+    "valid": true
+  },
+  {
+    "key": "PRO-Q7R8-S9T0",
+    "email": "test5@example.com",
+    "created": "2026-03-25T00:04:00.000Z",
+    "valid": true
+  }
+]
